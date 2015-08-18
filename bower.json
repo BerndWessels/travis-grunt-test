@@ -1,0 +1,21 @@
+{
+  "name": "travis-grunt-test",
+  "version": "0.1.0",
+  "homepage": "https://github.com/BerndWessels/travis-grunt-test",
+  "authors": [
+    "'BerndWessels' <wesselsbernd@gmail.com>"
+  ],
+  "description": "Lets figure out how to use travis and grunt on git.",
+  "main": "component.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
